@@ -18,9 +18,8 @@ will need to complete work on your local machine. Once you're done, you will
 submit your assignment to Canvas using a platform called CodeGrade.
 
 The general process is:
-
 - Click the GitHub logo button (the 'OctoCat') in Canvas; we will show you
-  exactly which button this is soon.
+  exactly which button this is soon
 - Create a personal copy (a 'fork') of the assignment into your GitHub account.
 - Download your personal copy to your computer (referred to as 'cloning').
 - Complete the required work.
